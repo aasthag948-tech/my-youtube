@@ -1,0 +1,24 @@
+{
+  "name": "my-youtube",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "JavaScript",
+    "Backend"
+  ],
+  "homepage": "https://github.com/aasthag948-tech/my-youtube#readme",
+  "bugs": {
+    "url": "https://github.com/aasthag948-tech/my-youtube/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasthag948-tech/my-youtube.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
